@@ -9,4 +9,7 @@
 
   Документация: https://github.com/Aleksandr3Bocharov/RefalAB/tree/main/doc.
 
--
+- https://github.com/Aleksandr3Bocharov/RefalABBrainfuck - интерпретатор языка программирования Brainfuck на РефалАБ.
+- https://github.com/Aleksandr3Bocharov/RefalABEinshteinPuzzle - решение задачи Эйнштейна на РефалАБ.
+
+
