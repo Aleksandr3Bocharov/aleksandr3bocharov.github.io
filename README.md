@@ -11,6 +11,6 @@
   Документация: [https://aleksandr3bocharov.github.io/refalab](https://aleksandr3bocharov.github.io/refalab).
 
 - [https://github.com/Aleksandr3Bocharov/refalabbrainfuck](https://github.com/Aleksandr3Bocharov/refalabbrainfuck) - интерпретатор языка программирования Brainfuck на РефалАБ.
-- [https://github.com/Aleksandr3Bocharov/refalabeinshteinpuzzle](https://github.com/Aleksandr3Bocharov/refalabeinshteinpuzzle) - решение задачи Эйнштейна на РефалАБ.
+- [https://github.com/Aleksandr3Bocharov/refalabeinsteinpuzzle](https://github.com/Aleksandr3Bocharov/refalabeinsteinpuzzle) - решение задачи Эйнштейна на РефалАБ.
 
 
